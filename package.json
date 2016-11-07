@@ -10,16 +10,16 @@
     { "name": "Guillermo Rauch", "email": "rauchg@gmail.com" }
   ],
   "dependencies": {
-    "connect": "2.7.2",
-    "commander": "0.6.1",
-    "range-parser": "0.0.4",
-    "mkdirp": "0.3.3",
-    "cookie": "0.0.5",
-    "buffer-crc32": "0.1.1",
-    "fresh": "0.1.0",
-    "methods": "0.0.1",
-    "send": "0.1.0",
-    "cookie-signature": "0.0.1",
+    "connect": "3.5.0",
+    "commander": "2.9.0",
+    "range-parser": "1.2.0",
+    "mkdirp": "0.5.1",
+    "cookie": "0.3.1",
+    "buffer-crc32": "0.2.5",
+    "fresh": "0.3.0",
+    "methods": "1.1.2",
+    "send": "0.14.1",
+    "cookie-signature": "1.0.6",
     "debug": "*"
   },
   "devDependencies": {
@@ -31,7 +31,7 @@
     "should": "*",
     "connect-redis": "*",
     "github-flavored-markdown": "*",
-    "supertest": "0.0.1"
+    "supertest": "2.0.1"
   },
   "keywords": [
     "express",
